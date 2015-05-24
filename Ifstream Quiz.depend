@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1336629178 source:z:\it203_b\endterm\ifstream quiz\main.cpp
+	<iostream>
+	<fstream>
+
